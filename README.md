@@ -4,7 +4,7 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Watch Tutorial for this project](https://youtu.be/Fej2wb4YHes)
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/yt_thumb.jpg">
+<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/yt_thumb.jpg">
 
 
 ## We have used:
@@ -44,7 +44,7 @@
 
 ## Screenshots of Chatbot
 
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
+<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
