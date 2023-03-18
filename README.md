@@ -44,7 +44,7 @@
 
 ## Screenshots of Chatbot
 
-<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg">
+<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg" width="270" height="500">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
