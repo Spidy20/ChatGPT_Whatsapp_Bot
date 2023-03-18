@@ -36,8 +36,8 @@
   ```
 - `BOT_API.py` is the Flask API which handles Request/Response of ChatBOT.
 - To run this script follow this command.
-``` 
-  python3 BOT_API.py
+  ``` 
+    python3 BOT_API.py
   ```
 
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
