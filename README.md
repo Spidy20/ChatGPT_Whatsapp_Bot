@@ -42,7 +42,7 @@
 
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots of Chatbot
+## Screenshot of Chatbot
 
 <img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg" width="270" height="500">
 
